@@ -8,15 +8,15 @@
         <h3>Contact me</h3>
 
         <p class="top-0">
-            Ruth Howell<br/>
-            8th Long River, Suite 15<br/>
-            Houston, TX 77074
+            Barry Flickinger<br/>
+            4246 W Gail Drive<br/>
+            Chandler, AZ 85226
         </p>
         
         <p class="top-0">
-            +123 205 808 809<br/>
-            <a href="#">www.ruthhowell.com</a><br/>
-            <a href="#">ruth.howell@mail.com</a>
+            480 262 2744<br/>
+            <a href="#">www.barryflickinger.com</a><br/>
+            <a href="#">barry.flickinger@gmail.com</a>
         </p>
         
         <br/>
@@ -61,56 +61,28 @@
         <!-- Social links list -->
         <ul class="no-list social-links">
             
-            <li class="social-links-twitter">
-                <span></span>
-                <div>
-                    <b>Twitter Profile</b>
-                    <a href="#">http://twitter.com/ruth.howell</a>
-                </div>
-            </li>
             <li class="social-links-facebook">
                 <span></span>
                 <div>
                     <b>Facebook Profile</b>
-                    <a href="#">http://facebook.com/ruth.howell</a>
+                    <a href="#">https://www.facebook.com/profile.php?id=814857367</a>
                 </div>
             </li>
             <li class="social-links-linkedin">
                 <span></span>
                 <div>
                     <b>Linkedin Profile</b>
-                    <a href="#">http://linkedin.com/ruth.howell</a>
+                    <a href="#">https://www.linkedin.com/in/barry-flickinger-08167346</a>
                 </div>
             </li>
             <li class="social-links-google">
                 <span></span>
                 <div>
                     <b>Google Profile</b>
-                    <a href="#">http://googleplus.com/ruth.howell</a>
+                    <a href="#">https://plus.google.com/u/0/111570379438349252183</a>
                 </div>
-            </li>
-            <li class="social-links-xing">
-                <span></span>
-                <div>
-                    <b>Xing Profile</b>
-                    <a href="#">http://xing.com/ruth.howell</a>
-                </div>
-            </li>
-            <li class="social-links-flickr">
-                <span></span>
-                <div>
-                    <b>Flickr Profile</b>
-                    <a href="#">http://flickr.com/ruth.howell</a>
-                </div>
-            </li>
-            <li class="social-links-skype">
-                <span></span>
-                <div>
-                    <b>Skype Nickname</b>
-                    <a href="#">nickname: ruth.howell</a>
-                </div>
-            </li>
-            
+            </li>     
+
         </ul>
         <!-- /Social links list -->
         

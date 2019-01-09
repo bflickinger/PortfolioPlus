@@ -1,14 +1,14 @@
 <?php
-		define('CONTACT_FORM_TO_NAME','QuanticaLabs@gmail.com');
-		define('CONTACT_FORM_TO_EMAIL','quanticalabs@gmail.com');
+		define('CONTACT_FORM_TO_NAME','Barry Flickinger');
+		define('CONTACT_FORM_TO_EMAIL','barry.flickinger@gmail.com');
 
-		define('CONTACT_FORM_SMTP_HOST','');
-		define('CONTACT_FORM_SMTP_USER','');
-		define('CONTACT_FORM_SMTP_PORT','');
-		define('CONTACT_FORM_SMTP_SECURE','');
-		define('CONTACT_FORM_SMTP_PASSWORD','');
+		define('CONTACT_FORM_SMTP_HOST','smtp.gmail.com');
+		define('CONTACT_FORM_SMTP_USER','barry.flickinger@gmail.com');
+		define('CONTACT_FORM_SMTP_PORT','587');
+		define('CONTACT_FORM_SMTP_SECURE','tls');
+		define('CONTACT_FORM_SMTP_PASSWORD','mgyilkewizilxcbm');
 
-		define('CONTACT_FORM_SUBJECT','Prestige: Contact from WWW');
+		define('CONTACT_FORM_SUBJECT','barryflickinger.com: Contact from WWW');
 
 		define('CONTACT_FORM_MSG_INVALID_DATA_NAME','Please enter your name.');
 		define('CONTACT_FORM_MSG_INVALID_DATA_MAIL','Please enter valid e-mail.');
