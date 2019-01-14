@@ -16,7 +16,7 @@
         <p class="top-0">
             480 262 2744<br/>
             <a href="#">www.barryflickinger.com</a><br/>
-            <a href="#">barry.flickinger@gmail.com</a>
+            <a href="mailto:barry.flickinger@gmail.com">barry.flickinger@gmail.com</a>
         </p>
         
         <br/>
@@ -65,21 +65,21 @@
                 <span></span>
                 <div>
                     <b>Facebook Profile</b>
-                    <a href="#">https://www.facebook.com/profile.php?id=814857367</a>
+                    <a href="https://www.facebook.com/profile.php?id=814857367" target="_blank">https://www.facebook.com</a>
                 </div>
             </li>
             <li class="social-links-linkedin">
                 <span></span>
                 <div>
                     <b>Linkedin Profile</b>
-                    <a href="#">https://www.linkedin.com/in/barry-flickinger-08167346</a>
+                    <a href="https://www.linkedin.com/in/barry-flickinger-08167346" target="_blank">https://www.linkedin.com</a>
                 </div>
             </li>
             <li class="social-links-google">
                 <span></span>
                 <div>
                     <b>Google Profile</b>
-                    <a href="#">https://plus.google.com/u/0/111570379438349252183</a>
+                    <a href="https://plus.google.com/u/0/111570379438349252183" target="_blank">https://plus.google.com</a>
                 </div>
             </li>     
 
